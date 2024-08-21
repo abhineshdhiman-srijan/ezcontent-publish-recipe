@@ -1,0 +1,22 @@
+{
+    "name": "abhineshdhiman-srijan/ezcontent-publish-recipe",
+    "description": "Provides publish features for content editor.",
+    "keywords": [
+        "ezcontent",
+        "publish",
+        "Drupal"
+    ],
+    "type": "drupal-recipe",
+    "license": "GPL-2.0+",
+    "require": {
+        "drupal/ezcontent_publish": "^2.1"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

@@ -1,0 +1,9 @@
+name: 'EzContent Publish'
+description: 'Provides publish features for content editor.'
+type: 'Components'
+# note, that this needs to be plural:
+# recipes:
+#   - ezcontent_base
+install:
+  - ezcontent_publish
+
